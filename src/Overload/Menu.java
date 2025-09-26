@@ -1,6 +1,12 @@
 package Overload;
 import java.util.Scanner;
 public class Menu {
+    /**
+     * En este programa se lleva a cabo un menú con distintas
+     * posibles operaciones para lo cual se hace llamado a 
+     * métodos que se encuentran en la clase de Operaciones
+     * @param args 
+     */
     public static void main(String[] args) {
         Scanner leer = new Scanner(System.in);
         

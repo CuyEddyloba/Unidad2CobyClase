@@ -1,6 +1,13 @@
 package Overload;
 public class Operaciones {
     
+    /**
+     * En esta clase tengo los metodos necesarios para
+     * las operaciones que son requeridas en este programa 
+     * @param nombre
+     * @return 
+     */
+    
     public static String saludoMayus(String nombre) {
         String mayus = "HOLA "+nombre.toUpperCase();
         return mayus;
